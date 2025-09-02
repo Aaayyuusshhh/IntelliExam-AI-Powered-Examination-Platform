@@ -1,0 +1,58 @@
+submission_id,problem_statement_Problem Statement,problem_statement_Proposed Solution,problem_statement_Technical Architecture,problem_statement_Novelty  Uniqueness/creativity,problem_statement_presentaion,problem_statement_ethical consideration,problem_statement_completeness of design solution,problem_statement_implementing ibm dpk/rag/aws/watsonx/granite,problem_statement_uniqueness,problem_statement_Completeness of the solution,problem_statement_impact on the theme chosen,problem_statement_total,proposed_solution_Problem Statement,proposed_solution_Proposed Solution,proposed_solution_Technical Architecture,proposed_solution_Novelty  Uniqueness/creativity,proposed_solution_presentaion,proposed_solution_ethical consideration,proposed_solution_completeness of design solution,proposed_solution_implementing ibm dpk/rag/aws/watsonx/granite,proposed_solution_uniqueness,proposed_solution_Completeness of the solution,proposed_solution_impact on the theme chosen,proposed_solution_total,technical_architecture_Problem Statement,technical_architecture_Proposed Solution,technical_architecture_Technical Architecture,technical_architecture_Novelty  Uniqueness/creativity,technical_architecture_presentaion,technical_architecture_ethical consideration,technical_architecture_completeness of design solution,technical_architecture_implementing ibm dpk/rag/aws/watsonx/granite,technical_architecture_uniqueness,technical_architecture_Completeness of the solution,technical_architecture_impact on the theme chosen,technical_architecture_total,overall_score,file_size_mb,file_size_factor,missing_sections,missing_sections_count,content_status,feedback,missing_requirements,track,Problem Statement,Proposed Solution,Technical Architecture,Novelty  Uniqueness/creativity,presentaion,ethical consideration,completeness of design solution,implementing ibm dpk/rag/aws/watsonx/granite,uniqueness,Completeness of the solution,impact on the theme chosen,Certification(yes/no),Feedback,Missing content(anything missing)
+Zero_to_One,7.5,3.25,3.0,5.0,4.5,3.0,5.0,3.0,1.25,1.25,1.25,5.45,7.0,7.5,6.5,5.0,6.0,7.25,5.0,7.25,0.0,0.0,0.0,6.7125,6.75,7.25,7.875,5.0,6.25,7.5,5.0,7.75,0.0,0.0,0.0,6.96875,6.4234375,0.0,1.0,None,0,"{""problem_statement"": {""has_content"": true, ""content_length"": 270, ""is_substantial"": true}, ""proposed_solution"": {""has_content"": true, ""content_length"": 592, ""is_substantial"": true}, ""technical_architecture"": {""has_content"": true, ""content_length"": 600, ""is_substantial"": true}}","STRENGTHS:
+• The solution is well-defined, creative, and addresses a significant educational need. It leverages advanced technologies like RAG and IBM Granite for personalized learning. The presentation is clear and concise, explaining the 'why', 'what', and 'how'.
+• Clearly defined components, good use of Agentic Planner and RAG module, emphasis on ethical considerations with Granite model.
+
+AREAS FOR IMPROVEMENT:
+• More detailed descriptions of each component and their interactions are needed. Include actual diagrams or ensure OCR text extraction is available. Clarify how the solution scales and its impact.
+• There is no proposed solution, technical architecture, novelty/uniqueness, presentation, ethical considerations, completeness of design solution, or implementation details provided.
+• More detailed explanation of how each component interacts, and specific mention of IBM or AWS usage.",[],custom,7.0625,6.1375,5.93125,5.000000000000001,5.6375,6.062500000000001,5.000000000000001,6.15,0.37500000000000006,0.37500000000000006,0.37500000000000006,no,"STRENGTHS:
+• The solution is well-defined, creative, and addresses a significant educational need. It leverages advanced technologies like RAG and IBM Granite for personalized learning. The presentation is clear and concise, explaining the 'why', 'what', and 'how'.
+• Clearly defined components, good use of Agentic Planner and RAG module, emphasis on ethical considerations with Granite model.
+
+AREAS FOR IMPROVEMENT:
+• More detailed descriptions of each component and their interactions are needed. Include actual diagrams or ensure OCR text extraction is available. Clarify how the solution scales and its impact.
+• There is no proposed solution, technical architecture, novelty/uniqueness, presentation, ethical considerations, completeness of design solution, or implementation details provided.
+• More detailed explanation of how each component interacts, and specific mention of IBM or AWS usage.",None
+Unknown,8.0,5.5,5.25,5.0,4.75,5.0,5.0,5.5,0.0,0.0,0.0,5.6875,7.25,7.125,6.75,5.0,6.25,6.5,5.0,7.5,0.0,0.0,0.0,6.65625,2.5,2.5,3.75,5.0,2.5,2.5,5.0,2.5,1.25,1.25,1.25,4.625,5.6546875,0.0,1.0,Technical Architecture,1,"{""problem_statement"": {""has_content"": true, ""content_length"": 265, ""is_substantial"": true}, ""proposed_solution"": {""has_content"": true, ""content_length"": 458, ""is_substantial"": true}, ""technical_architecture"": {""has_content"": false, ""content_length"": 0, ""is_substantial"": false}}","STRENGTHS:
+• Two technical diagrams were included, which could potentially provide insight into the technical architecture.
+• None identifiable due to lack of content.
+
+AREAS FOR IMPROVEMENT:
+• Ensure explicit mention of IBM or AWS in the solution, provide more detail on bias testing methodology, and describe the working prototype.
+• Provide detailed descriptions for all aspects including problem statement, proposed solution, technical architecture, novelty, presentation quality, ethical considerations, completeness of design solution, and implementation details.
+• Could provide more details on how the solution addresses ethical considerations and bias testing.
+
+MISSING CONTENT:
+• Missing required sections: Technical Architecture",[],custom,5.812500000000001,5.018750000000001,5.250000000000001,5.000000000000001,4.487500000000001,4.650000000000001,5.000000000000001,5.150000000000001,0.43750000000000006,0.43750000000000006,0.43750000000000006,no,"STRENGTHS:
+• Two technical diagrams were included, which could potentially provide insight into the technical architecture.
+• None identifiable due to lack of content.
+
+AREAS FOR IMPROVEMENT:
+• Ensure explicit mention of IBM or AWS in the solution, provide more detail on bias testing methodology, and describe the working prototype.
+• Provide detailed descriptions for all aspects including problem statement, proposed solution, technical architecture, novelty, presentation quality, ethical considerations, completeness of design solution, and implementation details.
+• Could provide more details on how the solution addresses ethical considerations and bias testing.
+
+MISSING CONTENT:
+• Missing required sections: Technical Architecture",None
+Trifecta,7.875,5.375,5.0,5.0,4.75,4.75,5.0,5.25,0.0,0.0,0.0,5.55625,2.5,6.0,3.75,5.0,5.5,2.5,5.0,6.5,1.25,1.25,1.25,5.85,2.5,2.5,3.75,5.0,2.5,2.5,5.0,2.5,1.25,1.25,1.25,4.625,5.333125,0.0,1.0,Technical Architecture,1,"{""problem_statement"": {""has_content"": true, ""content_length"": 557, ""is_substantial"": true}, ""proposed_solution"": {""has_content"": true, ""content_length"": 398, ""is_substantial"": true}, ""technical_architecture"": {""has_content"": false, ""content_length"": 0, ""is_substantial"": false}}","STRENGTHS:
+• Content is present for proposed solution evaluation
+• None identifiable due to lack of content.
+
+AREAS FOR IMPROVEMENT:
+• There is no clear explanation of the problem statement, proposed solution, or presentation quality. The technical architecture could benefit from more detailed descriptions and explanations of system components and their interactions.
+• The section lacks a proposed solution, technical architecture explanation, novelty/uniqueness discussion, presentation quality assessment, ethical considerations, completeness of design solution analysis, and implementation details.
+• Provide detailed descriptions for each criterion including problem statement, proposed solution, technical architecture, novelty, presentation quality, ethical considerations, completeness of design solution, and implementation details.
+
+MISSING CONTENT:
+• Missing required sections: Technical Architecture",[],custom,4.112500000000001,4.5875,4.125000000000001,5.000000000000001,4.2250000000000005,3.1750000000000003,5.000000000000001,4.7250000000000005,0.8750000000000001,0.8750000000000001,0.8750000000000001,no,"STRENGTHS:
+• Content is present for proposed solution evaluation
+• None identifiable due to lack of content.
+
+AREAS FOR IMPROVEMENT:
+• There is no clear explanation of the problem statement, proposed solution, or presentation quality. The technical architecture could benefit from more detailed descriptions and explanations of system components and their interactions.
+• The section lacks a proposed solution, technical architecture explanation, novelty/uniqueness discussion, presentation quality assessment, ethical considerations, completeness of design solution analysis, and implementation details.
+• Provide detailed descriptions for each criterion including problem statement, proposed solution, technical architecture, novelty, presentation quality, ethical considerations, completeness of design solution, and implementation details.
+
+MISSING CONTENT:
+• Missing required sections: Technical Architecture",None
