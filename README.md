@@ -29,7 +29,6 @@ Processes scanned answer sheets using OCR, applies semantic similarity for conte
 ---
 
 ## 🔧 Tech Stack  
-
 **Core Language**  
 - Python  
 
